@@ -7,5 +7,8 @@ Pre-training models can be downloaded here [Baidu Drive](https://pan.baidu.com/s
 
 
 3.安装依赖点击install_req.bat
+注意Dlib 安装如果失败单独下载安装： https://github.com/z-mahmud22/Dlib_Windows_Python3.x
+
+python_embeded/python.exe -m pip install xxxxDlib
 
 ![d4f90cf95f33aac58b9d420600c1282](https://github.com/StartHua/Comfyui_CSDMT_CXH/assets/22284244/f8fb051c-5597-45ba-af59-4f1169541a6c)
