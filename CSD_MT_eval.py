@@ -98,8 +98,8 @@ def local_masks(opts,split_parse):
 
 
 def load_data_from_image(non_makeup_img, makeup_img,opts):
-    non_makeup_img=crop_image(non_makeup_img)
-    makeup_img = crop_image(makeup_img)
+    # non_makeup_img=crop_image(non_makeup_img)
+    # makeup_img = crop_image(makeup_img)
     non_makeup_img=cv2.resize(non_makeup_img,(opts.resize_size,opts.resize_size))
     makeup_img = cv2.resize(makeup_img, (opts.resize_size, opts.resize_size))
     non_makeup_parse = get_face_parsing(non_makeup_img)
