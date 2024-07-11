@@ -12,3 +12,7 @@ Pre-training models can be downloaded here [Baidu Drive](https://pan.baidu.com/s
 python_embeded/python.exe -m pip install xxxxDlib
 
 ![d4f90cf95f33aac58b9d420600c1282](https://github.com/StartHua/Comfyui_CSDMT_CXH/assets/22284244/f8fb051c-5597-45ba-af59-4f1169541a6c)
+
+感谢：https://github.com/chflame163/ComfyUI_LayerStyle 作者提供节点
+
+<img width="1279" alt="7a19033610df3bfbe49cf840fc513c7" src="https://github.com/StartHua/Comfyui_CSDMT_CXH/assets/22284244/5d4e0ba5-4386-4d01-9652-77fd615feac9">
